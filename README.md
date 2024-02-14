@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ```npm install roact```
+
+sistema de registro 2
